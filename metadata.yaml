@@ -1,0 +1,34 @@
+_repo: A-guide-to-Plymouth-and-its-history_70046
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dreher, Raymond C.
+    gutenberg_agent_id: '55563'
+    url: http://www.gutenberg.org/2009/agents/55563
+creator:
+  authors:
+  - agent_name: Briggs, Helen T.
+    gutenberg_agent_id: '55561'
+    url: http://www.gutenberg.org/2009/agents/55561
+  - agent_name: Briggs, Rose T.
+    gutenberg_agent_id: '55562'
+    url: http://www.gutenberg.org/2009/agents/55562
+description: ''
+gutenberg_issued: '2023-02-15'
+identifiers:
+  gutenberg: '70046'
+language: en
+pgterms:marc905: 20220805065256briggs
+pgterms:marc906: '1938'
+pgterms:marc907: US
+production_note: Steve Mattern, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bThe Pilgrim Society and the Plymouth Antiquarian
+  Society, $c1938.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A guide to Plymouth and its history
+url: http://www.gutenberg.org/ebooks/70046
