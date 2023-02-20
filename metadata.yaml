@@ -5,6 +5,9 @@ contributor:
     agent_name: Dreher, Raymond C.
     gutenberg_agent_id: '55563'
     url: http://www.gutenberg.org/2009/agents/55563
+covers:
+- cover_type: archival
+  image_path: 70046-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Briggs, Helen T.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '55562'
     url: http://www.gutenberg.org/2009/agents/55562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70046#A-guide-to-Plymouth-and-its-history
 gutenberg_issued: '2023-02-15'
 identifiers:
   gutenberg: '70046'
